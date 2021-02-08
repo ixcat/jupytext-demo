@@ -13,8 +13,8 @@
 #     name: python3
 # ---
 
+# # A Jupytext Demo
+
 import datajoint as dj
 
 dj.conn()
-
-
