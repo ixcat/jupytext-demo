@@ -13,7 +13,7 @@
 #     name: python3
 # ---
 
-# # A Jupytext Demo
+# # A Jupytext Demo - Revisited
 
 import datajoint as dj
 
